@@ -1,0 +1,30 @@
+# Server
+server/__pycache__/*
+server/cache/*
+
+# Client
+client/node_modules
+client/dist
+client/dist-ssr
+client/*.local
+client/package-lock.json
+
+# Logs
+client/logs
+client/*.log
+client/npm-debug.log*
+client/yarn-debug.log*
+client/yarn-error.log*
+client/pnpm-debug.log*
+client/lerna-debug.log*
+
+# IDEs / Editors
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
