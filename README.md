@@ -53,8 +53,8 @@ Each algorithm can be compared through metrics like total travel cost and execut
 
 ## Screenshots / Demo
 
-![App Screenshot](./assets/launch.png)  
 ![App Screenshot](./assets/preview.png)  
+![App Screenshot](./assets/launch.png)  
 
 ## Authors
 
